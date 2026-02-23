@@ -40,3 +40,8 @@ Thumbs.db
 .actrc*
 
 __pycache__/
+
+# Node.js
+node_modules/
+dist/
+coverage/
